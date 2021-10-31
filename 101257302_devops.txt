@@ -1,2 +1,0 @@
-Devops is a course in George Brown College for Computer Programmer Analyst. Its a filed where servers, web apps, and infrastructure will be
-core to business needs. 
